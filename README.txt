@@ -1,2 +1,4 @@
-Aditya Dhami: ad1409
-Sanjaya Budhathoki: sb1845
+CS214 Project 4: myinit, mymalloc, myFree, myrealloc & mycleanup
+
+Project by
+Sanjaya Budhathoki and Aditya Dhami
